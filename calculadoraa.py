@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 COR_FUNDO = '#232032'
-COR_BOTAO = '#2d2b3a'
+COR_BOTAO = '#2d2b4f'
 COR_BOTAO_OP = '#7c3aed'
 COR_BOTAO_OP_CLARO = '#a78bfa'
 COR_TEXTO = '#fff'
